@@ -14,8 +14,8 @@ Este repositorio actúa como el **canal de distribución oficial** y el portal w
 
 Los instaladores oficiales se empaquetan de forma independiente para evitar tarifas corporativas y mantener la app 100% gratuita. Descárgalos desde nuestra sección oficial de **Releases** en GitHub o usando los enlaces directos a continuación:
 
-*   **💻 Windows (Desktop):** [Descargar FinanPro para Windows](https://github.com/bigotes91/FinanPro/releases/latest/download/FinanPro-Setup.exe) (Instalador ejecutable `.exe`)
-*   **📱 Android (Móvil):** [Descargar FinanPro para Android](https://github.com/bigotes91/FinanPro/releases/latest/download/FinanPro-Android.apk) (Archivo nativo `.apk`)
+*   **💻 Windows (Desktop):** [Descargar FinanPro para Windows](https://github.com/finanzaspro2026-max/FinanPro/releases/latest/download/FinanPro-Setup.exe) (Instalador ejecutable `.exe`)
+*   **📱 Android (Móvil):** [Descargar FinanPro para Android](https://github.com/finanzaspro2026-max/FinanPro/releases/latest/download/FinanPro-Android.apk) (Archivo nativo `.apk`)
 
 ---
 
