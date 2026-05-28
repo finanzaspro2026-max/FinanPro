@@ -50,7 +50,6 @@ Dado que FinanPro es un desarrollo independiente y no se distribuye a través de
 
 FinanPro no vende tus datos ni te molesta con anuncios abusivos. El mantenimiento de servidores y las auditorías de seguridad requieren recursos. Si esta aplicación te resulta útil para ordenar tu capital, considera realizar un aporte voluntario:
 
-*   **☕ PayPal:** [Donar a través de PayPal](https://www.paypal.com/donate/?business=4FAXCJW6FPPCU&no_recurring=0&currency_code=USD) (Utilizando nuestro ID de Empresa Protegida `4FAXCJW6FPPCU`)
 *   **🪙 USDT (Multi-Chain BEP20/ERC20):** `0x514eA1Fd857ebCA24F3E06659E7d5c1C3BaA2f84`
 *   **🪙 Ethereum (ETH):** `0x514eA1Fd857ebCA24F3E06659E7d5c1C3BaA2f84`
 
@@ -58,7 +57,7 @@ FinanPro no vende tus datos ni te molesta con anuncios abusivos. El mantenimient
 
 ## 📄 Licencia
 
-Este software se distribuye de forma gratuita en formato binario compilado bajo una **Licencia Freeware Propietaria**. Queda estrictamente prohibida la ingeniería inversa, descompilación o redistribución comercial del código fuente o de sus activos compilados. Para leer el acuerdo de licencia completo, consulta el archivo [LICENSE](LICENSE).
+Este software se distribuye de forma gratuita en formato binario compilado bajo una **Licencia Freeware Propietaria**. Queda estrictamente prohibida la ingeniería inversa, descompilación o redistribución comercial del código fuente o de sus activos compilados. Para leer el acuerdo de licencia completo, consulta el archivo (LICENSE).
 
 ---
 *Desarrollado con dedicación por **Edd20** para el control financiero definitivo.*
