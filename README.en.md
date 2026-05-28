@@ -1,5 +1,9 @@
 FinanPro — Your Intelligent Financial Control Center
-Version  License  Platforms
+
+![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.1.0-emerald?style=for-the-badge)
+![Licencia](https://img.shields.io/badge/Licencia-Freeware-blue?style=for-the-badge)
+![Plataformas](https://img.shields.io/badge/Plataformas-Windows%20%7C%20Android-indigo?style=for-the-badge)
+
 
 FinanPro is a standalone premium app for managing and optimizing personal finances. Designed with a modern commercial-grade aesthetic (Glassmorphic), advanced analytical controls, and a strong focus on privacy and data sovereignty.
 
