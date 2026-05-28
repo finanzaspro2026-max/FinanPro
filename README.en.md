@@ -1,4 +1,4 @@
-💰 FinanPro — Your Intelligent Financial Control Center
+# 💰 FinanPro — Your Intelligent Financial Control Center
 ![version](https://img.shields.io/badge/version-1.1.0-brightgreen)
 ![license](https://img.shields.io/badge/license-freeware-blue)
 ![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Android-purple)
